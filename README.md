@@ -1,3 +1,3 @@
 # Single CH. EEG Automatic Sleep Staging Sructure
 ## Analysis flow chart
-![](Image/Flow-chart.jpg)  
+![image](https://github.com/vita70579/Single-CH.-EEG-Automatic-Sleep-Staging-Structure/blob/master/Image/Flow-chart.png)  

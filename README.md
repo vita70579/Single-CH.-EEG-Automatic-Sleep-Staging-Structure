@@ -1,1 +1,1 @@
-# EEG_SleepStage_Analysis
+# Single CH. EEG Automatic Sleep Staging Sructure
